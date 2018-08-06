@@ -1,0 +1,24 @@
+{
+  "name": "mp-upload-oss-helper",
+  "version": "1.0.0",
+  "description": "小程序上传至oss, 后端计算参数的工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wang-jun-coder/mp-upload-oss-helper.git"
+  },
+  "keywords": [
+    "mp",
+    "oss",
+    "upload"
+  ],
+  "author": "wang-jun-coder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wang-jun-coder/mp-upload-oss-helper/issues"
+  },
+  "homepage": "https://github.com/wang-jun-coder/mp-upload-oss-helper#readme"
+}
